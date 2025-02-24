@@ -1,2 +1,0 @@
-1,SONG,s
-q,PODCAST,a
